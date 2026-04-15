@@ -1,0 +1,4 @@
+Name,Department,Predicted Label,High %,Medium %,Low %,HR Action
+Rahul Sharma,Engineering,High,92.0,8.0,0.0,Consider for promotion or leadership roles.
+Priya Mehta,Sales,Low,0.0,0.0,100.0,Urgent intervention needed — counseling & PIP.
+Aman Verma,Finance,Medium,0.8,99.1,0.2,Provide mentoring and additional training.
