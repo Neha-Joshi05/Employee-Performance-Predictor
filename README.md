@@ -1,14 +1,13 @@
-# 🏢 Employee Performance Predictor using Data Analytics
+🏢 Employee Performance Predictor using Data Analytics
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![ML](https://img.shields.io/badge/ML-Random%20Forest-green)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-> An AI-powered HR Analytics system that predicts employee performance
-> using Machine Learning and presents insights via an interactive dashboard.
 
----
+
+
+
+
+
+🚀 An end-to-end HR Analytics & Machine Learning system that predicts employee performance and delivers actionable insights through an interactive dashboard.
 
 ## 🎯 Project Overview
 
@@ -47,31 +46,30 @@ actionable HR recommendations.
 Employee-Performance-Predictor/
 │
 ├── data/
-│   └── employee_data.csv        # Synthetic HR dataset
+│   └── employee_data.csv
 │
 ├── src/
-│   ├── preprocess.py            # Data cleaning & encoding
-│   ├── eda.py                   # EDA charts generation
-│   └── train_model.py           # Model training & evaluation
+│   ├── preprocess.py
+│   ├── eda.py
+│   └── train_model.py
 │
 ├── models/
-│   ├── best_model.pkl           # Trained Random Forest
-│   ├── scaler.pkl               # Feature scaler
-│   ├── label_encoders.pkl       # Categorical encoders
-│   └── target_encoder.pkl       # Target label encoder
+│   ├── best_model.pkl
+│   ├── scaler.pkl
+│   ├── label_encoders.pkl
+│   └── target_encoder.pkl
 │
 ├── outputs/
-│   ├── cleaned_data.csv         # Preprocessed dataset
-│   └── predictions.csv          # Sample predictions
+│   ├── cleaned_data.csv
+│   └── predictions.csv
 │
-├── images/                      # All EDA charts (11 plots)
+├── images/
 │
-├── app.py                       # Streamlit dashboard
-├── predict.py                   # CLI prediction script
-├── main.py                      # Run full pipeline
-├── requirements.txt             # Dependencies
+├── app.py
+├── predict.py
+├── main.py
+├── requirements.txt
 └── README.md
----
 
 ## ⚙️ Installation & Setup
 
@@ -160,9 +158,9 @@ python predict.py
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your_linkedin](https://linkedin.com/in/your_linkedin)
+NEHA JOSHI
+- GitHub: https://github.com/Neha-Joshi05/Employee-Performance-Predictor
+- LinkedIn: https://www.linkedin.com/in/neha-joshi-0851a2322?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
